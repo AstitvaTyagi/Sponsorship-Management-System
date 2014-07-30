@@ -1,0 +1,52 @@
+﻿a:visited{
+	color:blue;
+}
+html{
+	font-family:Calibri;
+}
+
+#top{
+	 position:fixed;
+     background:#000000;
+     color:white;
+     width:99%;
+     text-align:center;
+     height:220px;
+     	
+}
+#top_left{
+    float:left;
+}
+#top_right{
+	
+	float:right;
+}
+#middle{
+	position:absolute;
+	margin-top:220px;
+	background:gray;
+	width:99%;
+	height:380px;
+	background:#753A00;
+}
+#left{
+	
+ float:left;
+ height:380px;
+ width:49.9%;
+ background:#1E4B59;
+}
+#right{
+ float:left;	
+ height:380px;
+ background:#802000;
+ width:49.99%;
+}
+#bottom{
+	position:fixed;
+	width:99%;
+	height:20px;
+	margin-top:600px;
+	background:#492525;
+	color:#CA6500;	
+}

@@ -1,0 +1,5 @@
+Sponsorship Registration System
+Requirements
+1. id password entry
+2. fields : sno, name of company , contact no, person , sec person, email, initial contact , status, amount , follow up, type of company.
+3. search by sector, search by company , name

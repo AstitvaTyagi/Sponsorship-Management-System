@@ -1,0 +1,63 @@
+﻿html{
+	font-family:Calibri;
+}
+ #top{
+	position:absolute;
+	height:120px;
+	width:99%;
+	background:gray;
+	font-family:Calibri;
+	font-weight:bold;
+}
+h4{
+	
+	margin-left:90%;
+}
+#left{
+	background:gray;
+	height:80%;
+	width:18.3%;
+	position:absolute;
+	margin-left:0px;
+	margin-top:120px;
+	font-size:25px;
+}
+a:visited{
+	color:blue;
+}
+#bottom{
+	position:absolute;
+	width:99%;
+	height:13px;
+	margin-top:42%;
+}
+h6{
+	margin-left:92%;
+	font-family:Calibri;
+	font-size:15px;
+}
+#main{
+	position:absolute;
+	height:77%;
+	width:81%;
+	margin-top:8%;
+	margin-left:18.2%;
+}
+#main h2{
+   position:relative;
+	margin-left:50%;
+	
+	}
+#entry{
+    margin-top:-250px;
+	margin-left:25%;
+	font-size:20px;
+}
+#entry_table td{
+	
+	font-size:20px;
+	}
+#sub{
+	position:absolute;
+	margin-top:350px;
+}
